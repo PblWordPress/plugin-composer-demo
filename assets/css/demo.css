@@ -1,0 +1,38 @@
+.serverinfo {
+  width: 90%;
+  margin: auto; }
+
+.serverinfo th, .serverinfo td {
+  padding: 0.2em 1em; }
+
+.serverinfo thead th {
+  background-color: #000;
+  color: #d4d4d3; }
+
+.serverinfo tbody tr td {
+  background-color: #fff; }
+
+.serverinfo tbody tr:nth-child(2n+1) td, .serverinfo tbody tr:nth-child(2n+1) th {
+  background-color: #d7d7d9; }
+
+.serverinfo tbody tr:hover th, .serverinfo tbody tr:hover td {
+  background-color: #fde291; }
+
+.serverinfo tbody th {
+  text-align: left; }
+
+.serverinfo tbody td {
+  text-align: right; }
+
+.message {
+  width: 90%;
+  margin: 50px auto;
+  background-color: #f0ad4e;
+  color: #000;
+  border-radius: 5px;
+  font-weight: bold; }
+
+.message p {
+  padding: 2em 1em; }
+
+/*# sourceMappingURL=demo.css.map */
